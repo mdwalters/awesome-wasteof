@@ -38,9 +38,11 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - [@wombucks](https://wasteof.money/users/wombucks) - Currency/money system bot. ![not running](https://img.shields.io/badge/status-not_running-yellow) [![created by @radi8](https://img.shields.io/badge/created_by-@radi8-lightgrey)](https://wasteof.money/users/radi8)
 - [@repeater](https://wasteof.money/users/repeater) - Bot the repeats what you said. ![banned](https://img.shields.io/badge/status-banned-red) [![created by @radi8](https://img.shields.io/badge/created_by-@radi8-lightgrey)](https://wasteof.money/users/radi8)
 
-## **🔌 Platform Clients:**
+## **🔌 Platform Clients/Frontends:**
 - wasteof for Android -  The official mobile app for the wasteof.money social network, written in React Native. created by [@micahlt](https://wasteof.money/users/micahlt). [Source Code](https://github.com/micahlt/wasteof.mobile) [Google Play Store](https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile) - ![released](https://img.shields.io/badge/status-released-blue)
-- wasteof.money iOS - wasteof.money client for ios, made with SwiftUI. created by [@oren](https://wasteof.money/users/oren). [Source Code](https://github.com/Oren-Lindsey/wasteof-ios) ![in development](https://img.shields.io/badge/status-in_development-yellow) 
+- wasteof.money iOS - wasteof.money client for ios, made with SwiftUI. created by [@oren](https://wasteof.money/users/oren). [Source Code](https://github.com/Oren-Lindsey/wasteof-ios) ![in development](https://img.shields.io/badge/status-in_development-yellow)
+- wasteof.time - An open-source wasteof.money frontend/backend implementation [Source Code](https://github.com/mdwalters/wasteof.time) - ![released](https://img.shields.io/badge/status-in_development-yellow)
+
 
 ## **📊 Tools and Apps:**
 - wasteof Post Explorer - Search, filter, sort, and aggregate archived wasteof.money users and posts. [Application](https://wasteof-postexplorer.vercel.app) [Source Code](https://github.com/imadeanaccount1/wasteofpostexplorer) - ![released](https://img.shields.io/badge/status-released-blue)
@@ -76,4 +78,3 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - alpha.wasteof.money - wasteof4 alpha [Alpha Link](https://alpha.wasteof.money/) - ![closed alpha](https://img.shields.io/badge/status-closed_alpha-yellow)
 - dev.wasteof.money - wasteof1 development site (not running anymore) [Original Link (not working anymore)](https://dev.wasteof.money/) [Source Code](https://github.com/jeffalo/wasteof.money) - ![archived](https://img.shields.io/badge/status-archived-red)
 - wasteof.money/chat - chat for wasteof.money [Chat Link](https://wasteof.money/chat) - ![released](https://img.shields.io/badge/status-released-blue)
-- wasteof.time - An open-source wasteof.money frontend/backend implementation [Source Code](https://github.com/mdwalters/wasteof.time) - ![released](https://img.shields.io/badge/status-in_development-yellow)
